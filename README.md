@@ -1,5 +1,1 @@
-
-
-
-
 initialisation du fichier
